@@ -16,8 +16,42 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 EJEMPLO DE CURSIVA, TACHADO Y DE NEGRITA
 
 Esto es un ejemplo de ~~tachado~~ en Markdown.
+
 *Esto está en itálica*
 _Esto está en itálica_
+
 **Esto está en negrita**
 __Esto éstá en negrita__
 
+*Puedes **combinar** dos formatos*
+
+EJEMPLOS DE ESCAPAR CARACTERES
+
+\*Esto es una frase con dos asteriscos\*
+
+EJEMPLO DE CITA
+
+> Un país, una civilización se puede juzgar por la forma en que trata a sus animales. -Mahatma Gandhi
+
+EJEMPLO DE LISTAS
+
+Listas desordenada
+
+* Elemento 1
+* Elemento 2
+* Elemento 3
+
+Lista ordenada
+
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+     *Sub **elemento** 1
+     *Sub elemento 2
+
+EJEMPLO DE CHECKBOX
+
+- [ ] Texto sin marcar
+- [x] Texto marcado
+
+EJEMPLO DE TABLAS
