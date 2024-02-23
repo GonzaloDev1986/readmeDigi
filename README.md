@@ -55,3 +55,36 @@ EJEMPLO DE CHECKBOX
 - [x] Texto marcado
 
 EJEMPLO DE TABLAS
+
+| Header Uno | Header Dos |
+| ---------- | ---------- |
+| Contenido celda 1 x 1 | Contenido celda 1 x 2 |
+| Contenido celda 2 x 1 | Contenido celda 2 x 2 |
+
+EJEMPLO DE INSERTAR IMÁGENES
+
+![Readme](https://user-images.githubusercontent.com/108950985/237044166-a9e5ab7d-f761-45a4-96c6-163495a4a3bc.png)
+
+<img src="https://user-images.githubusercontent.com/108950985/237044166-a9e5ab7d-f761-45a4-96c6-163495a4a3bc.png" width="200" >
+
+EJEMPLO DE ENLACE
+
+[Readme](http://es.lipsum.com/)
+
+<http://es.lipsum.com/>
+
+EJEMPLO DE EMOJIS
+
+:+1:
+
+EJEMPLO DE BLOQUE DE CÓDIGO
+
+```bash
+  npm install
+```
+
+```javascript
+  function decirHola(){
+    console.log ('Hola')
+}
+...
